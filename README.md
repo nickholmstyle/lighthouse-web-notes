@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository holds my bootcamp notes.
+This repository holds [Nick's](https://github.com/nickholmstyle) bootcamp notes.
 
-[Nick](https://github.com/nickholmstyle)
+
 
